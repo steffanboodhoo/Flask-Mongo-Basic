@@ -1,4 +1,4 @@
 from flask import Flask
 app = Flask(__name__)
 
-from fishapp import routes
+from name_app import routes
